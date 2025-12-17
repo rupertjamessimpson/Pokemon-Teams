@@ -1,52 +1,54 @@
-Claydol @ Focus Band  
+Claydol @ Silk Scarf
 Ability: Levitate
-EVs: 172 HP / 228 Def / 108 SpD  
-- Earthquake  
-- Explosion 
-- Rapid Spin  
-- Sandstorm  
-
-Cacturne @ Bright Powder  
-Ability: Sand Veil  
-EVs: 252 HP / 4 Def / 252 SpD  
-Calm Nature  
-IVs: 0 Atk  
-- Giga Drain  
-- Feint Attack  
-- Spikes  
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+- Earthquake
+- Explosion
+- Rapid Spin
 - Sandstorm
 
-Swampert @ Mystic Water  
-Ability: Torrent  
-EVs: 248 HP / 216 Def / 44 SpD  
-Relaxed Nature  
-- Earthquake  
-- Surf  
-- Ice Beam  
-- Roar  
+Cacturne @ Bright Powder
+Ability: Sand Veil
+EVs: 252 HP / 4 Def / 100 SpA / 152 SpD
+Modest Nature
+IVs: 0 Atk
+- Giga Drain
+- Leech Seed
+- Spikes
+- Sandstorm
 
-Dusclops @ Leftovers  
-Ability: Pressure  
-EVs: 252 HP / 4 Def / 252 SpD  
-Careful Nature  
-- Shadow Ball  
-- Will-O-Wisp  
-- Rest  
-- Protect  
+Swampert @ Leftovers
+Ability: Torrent
+EVs: 248 HP / 216 Def / 44 SpD
+Relaxed Nature
+- Earthquake
+- Surf
+- Ice Beam
+- Roar
 
-Metagross @ Lum Berry  
-Ability: Clear Body  
-EVs: 252 HP / 252 Atk / 4 Spe  
-Adamant Nature  
-- Meteor Mash  
-- Earthquake  
-- Shadow Ball  
-- Agility  
+Dusclops @ Chesto Berry
+Ability: Pressure
+EVs: 252 HP / 4 Def / 252 SpD
+Careful Nature
+- Shadow Ball
+- Night Shade
+- Will-O-Wisp
+- Rest
 
-Armaldo @ Quick Claw  
-Ability: Battle Armor  
-EVs: 252 HP / 252 Atk / 4 Spe  
-- Hidden Power [Bug]  
-- Ancient Power  
-- Earthquake  
-- Swords Dance  
+Armaldo @ Quick Claw
+Ability: Battle Armor
+EVs: 252 HP / 252 Atk / 4 Spe
+- Hidden Power [Bug]
+- Ancient Power
+- Earthquake
+- Swords Dance
+
+Metagross @ Lum Berry
+Ability: Clear Body
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+- Meteor Mash
+- Earthquake
+- Hyper Beam
+- Agility
+
