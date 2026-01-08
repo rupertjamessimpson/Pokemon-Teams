@@ -1,26 +1,29 @@
-Hippowdon @ Rocky Helmet  
-Ability: Sand Stream  
-Tera Type: Steel  
-EVs: 252 HP / 252 Atk / 4 Spe  
-Brave Nature  
-- Earthquake  
-- High Horsepower  
-- Heavy Slam  
-- Slack Off  
+Sandaconda @ Rocky Helmet  
+Ability: Sand Spit  
+Level: 50  
+Tera Type: Grass  
+EVs: 252 HP / 252 Def / 4 Spe  
+Impish Nature  
+- Glare  
+- Sand Tomb  
+- Endure  
+- Endeavor  
 
-Glimmora @ Assault Vest  
-Ability: Toxic Debris  
-Tera Type: Rock  
-EVs: 252 HP / 252 SpA / 4 SpD  
-Modest Nature  
-- Mortal Spin  
-- Sludge Wave  
-- Sludge Bomb  
-- Power Gem  
+Gastrodon @ Sitrus Berry  
+Ability: Storm Drain  
+Level: 50  
+Tera Type: Fairy  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Earth Power  
+- Muddy Water  
+- Recover  
+- Protect  
 
 Orthworm @ Leftovers  
 Ability: Earth Eater  
-Tera Type: Rock  
+Tera Type: Dragon  
 EVs: 252 HP / 252 Def / 4 SpD  
 Impish Nature  
 - Iron Defense  
@@ -28,33 +31,37 @@ Impish Nature
 - Iron Head  
 - Protect  
 
-Houndstone @ Choice Band  
-Ability: Sand Rush  
-Tera Type: Ghost  
-EVs: 4 HP / 252 Atk / 252 Spe  
+Tyranitar @ Assault Vest  
+Ability: Sand Stream  
+Level: 50  
+Tera Type: Flying  
+EVs: 252 HP / 252 Atk / 4 Spe  
 Adamant Nature  
-- Last Respects  
-- Play Rough  
-- Poltergeist  
-- Psychic Fangs  
+- Earthquake  
+- Rock Slide  
+- Tera Blast  
+- Crunch  
 
-Ogerpon-Cornerstone (F) @ Cornerstone Mask  
-Ability: Sturdy  
+Glimmora @ Focus Sash  
+Ability: Toxic Debris  
+Level: 50  
 Tera Type: Rock  
-EVs: 4 HP / 252 Atk / 252 Spe  
-Jolly Nature  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Toxic Spikes  
 - Spiky Shield  
-- Ivy Cudgel  
-- Horn Leech  
-- Follow Me  
+- Sludge Wave  
+- Power Gem  
 
-Landorus-Therian @ Clear Amulet  
+Landorus-Therian @ Life Orb  
 Ability: Intimidate  
-Tera Type: Steel  
+Level: 50  
+Tera Type: Ground  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Jolly Nature  
 - Earthquake  
-- Taunt  
+- Stomping Tantrum  
 - Rock Slide  
 - Protect  
 
