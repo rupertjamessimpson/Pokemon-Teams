@@ -1,12 +1,3 @@
-Claydol @ Silk Scarf
-Ability: Levitate
-EVs: 252 HP / 252 Atk / 4 SpD
-Adamant Nature
-- Earthquake
-- Explosion
-- Rapid Spin
-- Sandstorm
-
 Cacturne @ Bright Powder
 Ability: Sand Veil
 EVs: 252 HP / 4 Def / 100 SpA / 152 SpD
@@ -15,6 +6,15 @@ IVs: 0 Atk
 - Giga Drain
 - Leech Seed
 - Spikes
+- Sandstorm
+
+Claydol @ Silk Scarf
+Ability: Levitate
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+- Earthquake
+- Explosion
+- Rapid Spin
 - Sandstorm
 
 Swampert @ Leftovers
