@@ -28,18 +28,18 @@ EVs: 252 HP / 252 Def / 4 SpD
 Impish Nature  
 - Iron Defense  
 - Body Press  
-- Iron Head  
+- Heavy Slam 
 - Protect  
 
 Tyranitar @ Assault Vest  
 Ability: Sand Stream  
 Level: 50  
-Tera Type: Rock  
+Tera Type: Flying  
 EVs: 252 HP / 252 Atk / 4 Spe  
 Adamant Nature  
 - Earthquake  
 - Rock Slide  
-- Heavy Slam 
+- Tera Blast
 - Crunch  
 
 Glimmora @ Focus Sash  
@@ -62,5 +62,5 @@ EVs: 4 HP / 252 Atk / 252 Spe
 Jolly Nature  
 - Earthquake  
 - Stomping Tantrum  
-- Tera Blast 
+- Rock Slide
 - Protect  
