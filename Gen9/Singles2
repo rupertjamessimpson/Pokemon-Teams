@@ -1,19 +1,19 @@
 Skeledirge @ Leftovers  
 Ability: Unaware  
-Tera Type: Fairy  
-EVs: 252 HP / 68 Def / 80 SpA / 108 SpD  
+Tera Type: Fire  
+EVs: 124 HP / 72 Def / 252 SpA / 60 SpD  
 Modest Nature  
 IVs: 0 Atk  
 - Torch Song  
-- Shadow Ball  
+- Yawn  
 - Slack Off  
 - Protect  
 
 Arboliva @ Assault Vest  
 Ability: Seed Sower  
-Tera Type: Ghost  
+Tera Type: Fairy  
 EVs: 252 HP / 4 SpA / 252 SpD  
-Quiet Nature  
+Calm Nature  
 IVs: 0 Atk  
 - Giga Drain  
 - Hyper Voice  
@@ -32,15 +32,17 @@ Brave Nature
 
 Dondozo @ Choice Band  
 Ability: Unaware  
+Tera Type: Water  
 EVs: 252 HP / 252 Atk / 4 SpD  
-Brave Nature  
+Adamant Nature  
 - Wave Crash  
 - Outrage  
-- Zen Headbutt  
+- Earthquake  
 - Body Slam  
 
 Tinkaton (F) @ Lum Berry  
 Ability: Mold Breaker  
+Tera Type: Steel  
 EVs: 252 HP / 252 Atk / 4 Spe  
 Adamant Nature  
 - Swords Dance  
@@ -48,13 +50,12 @@ Adamant Nature
 - Play Rough  
 - Knock Off  
 
-Rabsca @ Heavy-Duty Boots  
-Ability: Synchronize  
-EVs: 252 HP / 4 Def / 252 SpA  
-Quiet Nature  
-IVs: 0 Atk  
-- Psychic  
-- Bug Buzz  
-- Trick Room  
-- Revival Blessing  
+Baxcalibur @ Loaded Dice  
+Ability: Thermal Exchange  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Glaive Rush  
+- Scale Shot  
+- Icicle Spear  
+- Ice Shard  
 
