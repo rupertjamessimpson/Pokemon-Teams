@@ -1,3 +1,12 @@
+Claydol @ Focus Band
+Ability: Levitate
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+- Earthquake
+- Explosion
+- Rapid Spin
+- Sandstorm
+
 Cacturne @ Bright Powder
 Ability: Sand Veil
 EVs: 252 HP / 4 Def / 100 SpA / 152 SpD
@@ -8,25 +17,16 @@ IVs: 0 Atk
 - Spikes
 - Sandstorm
 
-Claydol @ Silk Scarf
-Ability: Levitate
-EVs: 252 HP / 252 Atk / 4 SpD
-Adamant Nature
-- Earthquake
-- Explosion
-- Rapid Spin
-- Sandstorm
-
-Swampert @ Leftovers
+Swampert @ Liechi Berry
 Ability: Torrent
 EVs: 248 HP / 216 Def / 44 SpD
 Relaxed Nature
 - Earthquake
 - Surf
 - Ice Beam
-- Roar
+- Muddy Water
 
-Dusclops @ Chesto Berry
+Dusclops @ Leftovers
 Ability: Pressure
 EVs: 252 HP / 4 Def / 252 SpD
 Careful Nature
@@ -35,13 +35,13 @@ Careful Nature
 - Will-O-Wisp
 - Rest
 
-Armaldo @ Quick Claw
-Ability: Battle Armor
-EVs: 252 HP / 252 Atk / 4 Spe
-- Hidden Power [Bug]
-- Ancient Power
+Solrock @ 
+Ability: Levitate
+EVs: 4 HP / 252 Atk / 252 Spe
+- Rock Slide
 - Earthquake
-- Swords Dance
+- Explosion
+- Light Screen
 
 Metagross @ Lum Berry
 Ability: Clear Body
