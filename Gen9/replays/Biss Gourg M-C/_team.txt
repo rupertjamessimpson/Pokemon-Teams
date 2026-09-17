@@ -1,0 +1,52 @@
+Pelipper @ Focus Sash  
+Ability: Drizzle  
+EVs: 32 Spe  
+- Weather Ball  
+- Hurricane  
+- Tailwind  
+- Protect  
+
+Gourgeist-Super (M) @ Sitrus Berry  
+Ability: Frisk  
+EVs: 32 HP / 32 Def / 2 SpD  
+Relaxed Nature  
+- Disable  
+- Scary Face  
+- Trick Room  
+- Poltergeist  
+
+Gardevoir (F) @ Gardevoirite  
+Ability: Trace  
+EVs: 32 HP / 1 Def / 32 SpA / 1 SpD  
+Modest Nature  
+- Expanding Force  
+- Hyper Voice  
+- Protect  
+- Trick Room  
+
+Golisopod (M) @ Golisopite  
+Ability: Emergency Exit  
+EVs: 32 Atk / 17 Def / 17 SpD  
+Adamant Nature  
+- Swords Dance  
+- Leech Life  
+- Protect  
+- Iron Head  
+
+Indeedee-F (F) @ Colbur Berry  
+Ability: Psychic Surge  
+EVs: 32 HP / 32 Def / 2 SpD  
+Relaxed Nature  
+- Psychic  
+- Trick Room  
+- Follow Me  
+- Light Screen  
+
+Milotic (F) @ Leftovers  
+Ability: Competitive  
+EVs: 32 HP / 17 Def / 17 SpD  
+- Helping Hand  
+- Icy Wind  
+- Muddy Water  
+- Protect  
+
